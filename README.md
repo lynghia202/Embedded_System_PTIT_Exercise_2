@@ -2,19 +2,15 @@
 
 ## Giới thiệu
 Bài tập 2 - Blinking LED
-
+## Yêu cầu:
+- Tiến trình 1: Cấu hình 2 nhóm LED ở chế độ Output, LED sẽ nhấp nháy với chu kỳ 1000ms. 
+- Tiến trình 2: Cấu hình 1 LED ở chế độ Output và 1 nút nhấn ở chế độ Input, LED thay đổi trạng thái mỗi lần người dùng nhấn nút.
 ## Phần cứng sử dụng
 - STM32F103C8T6
-- Cảm biến nhiệt độ DS18B20
-- Module UART-USB
-
-## Cách chạy
-1. Mở project bằng KeilC (hoặc STM32CubeIDE).
-2. Nạp code vào board.
-3. Quan sát kết quả qua Serial Monitor.
-
+- LED
+- Button
 ## Demo
-[Link video demo trên YouTube](https://youtu.be/xxxxxx)
+[Task 1](https://youtu.be/Q21_ixES47o)
 
 ## Thành viên
 - Nguyễn A
