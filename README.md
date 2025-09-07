@@ -11,6 +11,7 @@ Bài tập 2 - Blinking LED
 - Button
 ## Demo
 [Task 1](https://youtu.be/Q21_ixES47o)
+[Task 2] (https://youtu.be/Fgh0wUcstPQ)
 
 ## Thành viên
 - Nguyễn A
