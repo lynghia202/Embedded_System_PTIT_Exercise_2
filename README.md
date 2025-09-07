@@ -1,5 +1,4 @@
 # Embedded_System_PTIT_Exercise_2
-
 ## Giới thiệu
 Bài tập 2 - Blinking LED
 ## Yêu cầu:
@@ -11,9 +10,11 @@ Bài tập 2 - Blinking LED
 - Button
 ## Demo
 [Task 1](https://youtu.be/Q21_ixES47o)
-[Task 2] (https://youtu.be/Fgh0wUcstPQ)
+[Task 2](https://youtu.be/Fgh0wUcstPQ)
 
 ## Thành viên
-- Nguyễn A
-- Trần B
+- Nguyễn Đức Nam
+- Lý Trọng Nghĩa
+- Dương Sơn Quang
+- Nguyễn Minh Đức
 
